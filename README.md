@@ -70,7 +70,7 @@ Backend verifies payment and updates order status
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/Lakshya46/magnet-brain-task.git
 cd magnet-brain-task
